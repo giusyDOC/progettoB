@@ -11,5 +11,6 @@ public class WelcomeActivity extends Activity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+	System.out.println("Questa è una stampa ");
     }
 }
