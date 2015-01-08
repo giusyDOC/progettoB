@@ -11,6 +11,6 @@ public class WelcomeActivity extends Activity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-    	System.out.println("questa modifica fatta da dev2 causerà un errore");
+    	System.out.println("questa modifica fatta da dev2 causerà un errore - provo a modificare");
 	}
 }
