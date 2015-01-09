@@ -15,6 +15,7 @@ public class WelcomeActivity extends Activity
 	System.out.println("Questa è una stampa ");
     
     	System.out.println("questa modifica fatta da dev2 causerà un errore - provo a modificare");
+	System.out.println("Simulo una modifica da un'altra postazione");
 	}
 
 }
